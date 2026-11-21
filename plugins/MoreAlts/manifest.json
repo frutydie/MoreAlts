@@ -1,0 +1,9 @@
+{
+	"name": "MoreAlts+",
+	"description": "Adds ability to safely add more alts to Discord, plus unlocks Discord's own native multi-account switcher.",
+	"authors": [
+		{ "name": "frutydie" }
+	],
+	"main": "./index.js",
+	"vendetta": { "icon": "ic_full_server_gating_24px" }
+}
